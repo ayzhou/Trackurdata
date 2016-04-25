@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Trackurdata",
+  "description": "This extension helps to track the impact of trackers in your browser.",
+  "version": "1.0",
+  "devtools_page": "devtools.html",
+  "options_page" : "options.html",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"],
+      "js": ["jquery-2.1.4.min.js", "content_script.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["newlist.js", "background.js", "papaparse.min.js", "psMathStats.min.js"]
+  },
+  "permissions": [
+    "tabs", "storage", "webRequest", "webRequestBlocking", "http://*/*",
+        "https://*/*"
+  ]
+}

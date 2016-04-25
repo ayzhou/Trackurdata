@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title>Trackurdata Options Page</title></head>
+<body>
+
+<div id="categories"></div>
+<h1>Status/Directions</h1>
+<div id="status"></div>
+<div id="resultsDiv">
+	<h3>Results</h3>
+	<textarea id='results' rows = "10" columns = "30" spellcheck="false" autocomplete="off"> </textarea>
+</div>
+<div id = "fileDiv">
+	<h3>Input</h3>
+	<input type="file" id="input">
+</div>
+<div id="numTimingIterationsDiv">
+	<h3>Number of timing iterations</h3>
+	<textarea id='numTimingIterations' rows = "1" columns = "5"></textarea>
+</div>
+<button id="save">Run</button>
+<button id="continue">Continue</button>
+<button id="getTimings">Get Timings</button>
+<button id="sendInput">Parse</button>
+<div id="results_table"></div>
+
+</body>
+<script src="papaparse.min.js"></script>
+<script src="options.js"></script>
+</html>

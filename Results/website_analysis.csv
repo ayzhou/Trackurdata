@@ -1,0 +1,83 @@
+Website Found, Durations Sum, Durations Median, Durations Std Dev, Request Size Sum, Request Size Median, Request Size Std Dev,Tags
+http://www.kohls.com,145571,31,3377.155269,572246,1247,8902.104724,General Merchandise/Major Retailers
+http://www.nytimes.com,114423,18,3441.019093,1526209,3560,25118.48837,News and Media/Newspapers
+http://www.businessinsider.com,93502,43,1569.805163,4006805,1959,129092.1638,News and Media/Newspapers
+http://www.amazonaws.com,70600,64,2008.863354,639027,942.5,19172.03441,Web Services
+http://www.conservativetribune.com,64149,34,912.802014,1264076,2247,13070.30573,News and Media/Newspapers
+http://www.indeed.com,63118,16,10229.64901,31438,1221,2971.604627,Employment/Job Search
+http://www.washingtonpost.com,57310,358.5,2525.030448,305568,3522,18237.82572,News and Media/Newspapers
+http://www.foxnews.com,51577,3017,2320.706265,69340,3208,2404.204945,News and Media/Newspapers
+http://www.microsoft.com,51286,2529,2438.874411,84815,2684,9974.186603,Business and Economy/Computers and Internet
+http://www.msn.com,45726,32,2338.785581,497342,1596,10071.11622,Business and Economy/Computers and Internet
+http://www.att.com,43197,5778.5,4689.214318,14260,151,3719.003032,Telecommunications/Carriers
+http://www.ebay.com,36176,96.5,1983.191066,145940,3932.5,10852.69383,
+http://www.buzzlie.com,33096,54,1445.289548,494299,824,24504.92689,
+http://www.webmd.com,30767,35,2074.342412,212403,1089,12979.66586,
+http://www.amazon.com,26682,12,481.562763,7008184,12573.5,56087.69212,
+http://www.usps.com,25344,747,3622.76689,25867,534,2339.59596,
+http://www.cnn.com,24717,24,702.985319,1692543,1132,21423.2662,
+http://www.macys.com,24621,31,1285.3494,230339,942,11559.9996,
+http://www.aol.com,23698,20,1687.288127,893207,1914,17960.38379,
+http://www.instagram.com,21767,30,4952.167061,8207,498,202.833322,
+http://www.feed.com,19038,109,616.803076,170923,648,8629.976857,
+http://www.blogspot.com,17356,877,6518.05316,12118,2530.5,2655.003249,
+http://www.stackoverflow.com,16614,111.5,963.875412,81029,2723.5,7102.906936,
+http://www.pornhub.com,16606,33,2072.787624,4574955,8485,291277.5239,
+http://www.xfinity.com,15980,28.5,1797.677146,139221,804.5,4006.546654,
+http://www.patch.com,15845,30.5,2617.765641,362917,4403,21438.26594,
+http://www.yahoo.com,15515,83,858.351443,82336,2153,3672.321054,
+http://www.forbes.com,15194,24,684.023844,812596,1694,15828.94227,
+http://www.walmart.com,12970,28,871.719681,292357,1003,13507.7551,
+http://www.worldlifestyle.com,12671,31.5,412.244133,7382412,16895,154084.9409,
+http://www.huffingtonpost.com,12077,22,515.499431,828395,1558.5,15435.68468,
+http://www.pandora.com,10826,23.5,1428.077631,96724,666,10455.39542,
+http://www.lowes.com,10512,32,526.33184,131530,1257,6353.36663,
+http://www.verizonwireless.com,9230,33,593.599931,154769,1453,6251.979219,
+http://www.weather.com,7797,548.5,363.582269,162364,4700,16883.68909,
+http://www.instructure.com,7744,980,2300.783973,14795,5117,1312.138797,
+http://www.groupon.com,7622,1822,772.847359,21450,4116,780.425269,
+http://www.wordpress.com,6112,30,1104.050446,30631,695.5,2685.723405,
+http://www.citi.com,5988,672.5,883.250436,39565,5120,3849.79603,
+http://www.about.com,5920,27.5,606.861988,242408,2995,16028.37727,
+http://www.force.com,4629,37,346.487371,314362,1029.5,22614.21089,
+http://www.paypal.com,4359,188,690.699363,26683,3717,1610.699145,
+http://www.wikia.com,4186,23,206.491874,288721,646.5,9304.273201,
+http://www.vice.com,4014,24,178.634969,688979,3007,21278.23031,
+http://www.capitalone.com,3542,41.5,1017.770572,124529,1841.5,24574.8168,
+http://www.intuit.com,3318,28,77.366202,546286,2543,15710.27357,
+http://www.chase.com,2512,80.5,766.362548,16705,643.5,3264.8236,
+http://www.usatoday.com,2389,25,163.595017,266288,2838,14673.77667,
+http://www.office.com,2310,283,521.701783,13031,3050.5,368.555542,
+http://www.target.com,2022,39,203.484625,138176,1787,10368.09112,
+http://www.reddit.com,1787,152,478.017824,12030,3550,1470.76973,
+http://www.tumblr.com,1787,447,284.286277,14364,3918,2041.539125,
+http://www.realtor.com,1738,29,100.932008,229861,1250,17589.82608,
+http://www.go.com,1637,54,83.868935,1148936,14041.5,68673.25186,
+http://www.adobe.com,1471,33,47.605884,96649,1425.5,4812.494428,
+http://www.espn.go.com,1301,25,64.581867,343769,2920,19376.02848,
+http://www.imdb.com,1148,14.5,12.367251,337624,357,31647.98778,
+http://www.outbrain.com,1053,31,34.858939,222439,1262,19296.44217,
+http://www.homedepot.com,1012,45,31.817364,283705,4020,23346.74333,
+http://www.yelp.com,1001,23.5,24.398748,830680,5302,55400.75951,
+http://www.github.com,943,83,265.196229,8080,632,1443.988227,
+http://www.fedex.com,896,28,29.404002,42337,808,2833.233377,
+http://www.zillow.com,892,18,106.581983,35799,1424,3932.665332,
+http://www.americanexpress.com,721,360.5,8.5,9726,4863,632,
+http://www.gfycat.com,626,37.5,93.41005,20703,543.5,3553.112208,
+http://www.etsy.com,603,301.5,78.5,15149,7574.5,322.5,
+http://www.salesforce.com,516,26.5,17.166464,101433,637.5,15357.69612,
+http://www.news.com,483,29.5,25.466072,160508,1416,20860.54286,
+http://www.bestbuy.com,474,17.5,49.365136,115592,1803,17061.84602,
+http://www.xvideos.com,287,287,0,804,804,0,
+http://www.ask.com,279,18,23.387148,53366,537,7180.189329,
+http://www.cnet.com,258,27,21.094539,42867,1395,7125.237589,Internet/Resources
+http://www.netflix.com,250,125,2,13534,6767,2238,Entertainment/Online Media
+http://www.bankofamerica.com,248,27,11.285301,26425,470,4813.589708,Financial Services/Banks
+http://www.imgur.com,245,18,15.009639,131562,2247,16675.87942,Photo Sharing/Image Hosting
+http://www.apple.com,228,12.5,6.025985,87058,1854,8855.724186,Business and Economy/Computers and Internet
+http://www.googleusercontent.com,202,23,6.057339,13695,1453,870.798357,N/A
+http://www.tripadvisor.com,185,16,24.697352,71469,1424,17645.68118,Business and Economy/Computers and Internet
+http://www.linkedin.com,106,106,0,429,429,0,Online Communities/Social Networking
+http://www.hulu.com,103,38,5.906682,93113,14580,33764.82069,Entertainment/Online Media
+http://www.dropbox.com,39,39,0,521,521,0,Storage/Free
+http://www.bing.com,12,12,0,239,239,0,Search Engines

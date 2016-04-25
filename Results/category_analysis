@@ -1,0 +1,8 @@
+Category	Number of Trackers	Number of Websites Found on	 Timings Median	 Timings Std Dev	 Size Sum	 Size Median	 Size Std Dev	 Duration Sum	 Duration Median	 Duration Std Dev
+third_party_advertisers	999	58	396.5	175.794154	11793925	1682	84594.8533	2118	0	12.179817
+third_party_tracking_domains	1025	77	382.5	264.795511	6251087	1126	13739.31763	1939	0	6.755448
+individual_tracking_systems	78	35	374	163.619026	257174	1003	11599.58693	29	0	1.610136
+third_party_tracking_services	178	47	347.5	126.442677	485843	365.5	7863.780422	78	0	1.24481
+third_party_adverts	421	41	393	152.931116	8915870	11410	48240.45129	2181	1	13.95465
+general_blocking	384	40	360.75	154.118294	7184179	3697	36237.69046	2779	1	25.989854
+specific_advert_blocking_filters	96	18	377.25	202.270295	7455758	5338	145653.5689	3713	1	124.12993
