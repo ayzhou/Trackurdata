@@ -15,3 +15,5 @@ To USE:
 5) Select the number of timing iterations to do, then click Run.
 
 6) Copy the resultant JSON and save it to the results directory. 
+
+7) To do data analysis, run python trackurdata_analysis -tcw -w <nameoftrackerCSV> -c <nameofJSONfile> to get relevant statistics about websites and trackers, respectively. 
